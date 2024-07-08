@@ -127,7 +127,7 @@
         .moodle-dialogue-base .moodle-dialogue-wrap, .tabcontentcontainer label.adaptabletab {
             background-color: #202833 !important;
         }
-        .block > .content {
+        .block > .content, .fp-iconview .fp-filename-field .fp-filename {
             background: #202833 !important;
         }
         .block {
@@ -164,7 +164,7 @@
             border: none !important;
         }
 
-        .message-app, .message-app .message.send, .bg-white, [data-region="message-drawer"] [data-region="body-container"] .btn-link {
+        .message-app, .message-app .message.send, .bg-white, [data-region="message-drawer"] [data-region="body-container"] .btn-link, .forumpost .header, .forumpost, #intro.generalbox, .submissionnotgraded  {
            background-color: #202833 !important;
         }
     `;
